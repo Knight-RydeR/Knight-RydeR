@@ -3,8 +3,6 @@
 
 - 🔭 I've worked as a Solidity developer and Auditor. Currently working in Unity Engine, developing 2D/3D games.
 
-- 🌱 I’m currently learning Web Development, starting with React.
-
 <h3 align="center">Languages & Tools</h3>
 
 <p align="center">  
