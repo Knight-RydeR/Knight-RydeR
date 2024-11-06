@@ -2,6 +2,7 @@
 <h3 align="center">Developer, Designer and Auditor</h3>
 
 - 🔭 I've worked as a Solidity developer and Auditor. Currently working in Unity Engine, developing 2D/3D games.
+- ⚡ The games I make in my free time I upload on itch. You may check them out here: https://lonely-ryder.itch.io/
 
 <h3 align="center">Languages & Tools</h3>
 
